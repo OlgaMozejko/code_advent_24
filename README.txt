@@ -1,4 +1,5 @@
 ﻿to run the scripts
 `
-tsc day_.ts && node day_.js
+npx ts-node day_.ts
+
 `
